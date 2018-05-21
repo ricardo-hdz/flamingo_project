@@ -1,5 +1,6 @@
 Region,city,State,ForecastYoYPctChange,MSAName,CountyName,CityName
 MSA,"Miami-Fort Lauderdale, FL",FL,3.7956357082487595,"Miami-Fort Lauderdale, FL",,
+MSA,"Orlando, FL",FL,6.664546898665759,"Orlando, FL",,
 MSA,"Seattle, WA",WA,7.644874186686961,"Seattle, WA",,
 County,Miami,KS,2.2039122188678903,"Kansas City, KS",Miami,
 County,Miami,OH,3.5056102909145,"Dayton, OH",Miami,
@@ -9,6 +10,7 @@ City,Miami Lakes,FL,3.1684261257358197,"Miami-Fort Lauderdale, FL",Miami-Dade,Mi
 City,South Miami,FL,2.4422899993836698,"Miami-Fort Lauderdale, FL",Miami-Dade,South Miami
 City,West Miami,FL,4.59221712336803,"Miami-Fort Lauderdale, FL",Miami-Dade,West Miami
 City,Miami,FL,3.08188476803895,"Miami-Fort Lauderdale, FL",Miami-Dade,Miami
+City,Orlando,FL,6.6680435330752195,"Orlando, FL",Orange,Orlando
 City,Seattle,WA,8.406684796315169,"Seattle, WA",King,Seattle
 City,Miami Shores,FL,2.2998848135634398,"Miami-Fort Lauderdale, FL",Miami-Dade,Miami Shores
 City,Miami Springs,FL,2.55288410657892,"Miami-Fort Lauderdale, FL",Miami-Dade,Miami Springs

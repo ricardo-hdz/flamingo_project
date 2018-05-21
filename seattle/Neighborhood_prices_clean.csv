@@ -1,0 +1,157 @@
+Neighborhood,city,state,metro,county,rent_1br_sqft,rent_1br_monthly,rent_2br_sqft,rent_2br_monthly,rent_sf_sqft,rent_sf_monthly,buy_home,buy_home_sqft,price_rent_ratio
+Capitol Hill,Seattle,WA,Seattle,King,3.01477104874446,1900.0,2.82864176885916,2750.0,,,,622.07336523126,22.32
+West End,Tacoma,WA,Seattle,Pierce,1.64688427299703,1124.5,1.46509341199607,1339.0,,,379950.0,280.733944954128,16.02
+University District,Seattle,WA,Seattle,King,2.62826277692476,1475.0,2.62449528936743,1950.0,,,,,24.89
+Wallingford,Seattle,WA,Seattle,King,3.00460122699387,1885.0,,2507.0,,,899900.0,567.18487394958,25.43
+Downtown,Bellevue,WA,Seattle,King,2.85086342229199,2130.0,2.62230919765166,,,,,,23.91
+New Tacoma,Tacoma,WA,Seattle,Pierce,2.18832891246684,,,,,,,,14.78
+Fremont,Seattle,WA,Seattle,King,2.9779411764705896,1851.0,,,,,,,23.22
+First Hill,Seattle,WA,Seattle,King,3.0095917095215805,1877.5,2.82583621683968,2900.0,,,,,20.27
+Belltown,Seattle,WA,Seattle,King,3.18926680116,2084.0,3.0593849416755003,2876.5,,,,,
+Ballard,Seattle,WA,Seattle,King,2.82034982935154,1750.0,2.5303113957122405,2450.0,,,,,22.42
+South Juanita,Kirkland,WA,Seattle,King,2.58146487294469,1812.0,2.09240024681201,2070.5,,,,,
+Lower Queen Anne,Seattle,WA,Seattle,King,2.51582752506725,1585.0,,,,,,,22.03
+Crossroads,Bellevue,WA,Seattle,King,2.40205479452055,1696.0,2.01800947867299,2027.0,,,,,24.46
+Uptown,Seattle,WA,Seattle,King,3.32432432432432,,,,,,,,21.02
+Westlake,Seattle,WA,Seattle,King,3.43256379100851,2225.0,2.9116638078902204,3260.0,,,,,21.4
+Downtown,Redmond,WA,Seattle,King,2.5984962406015,1888.0,,,,,,,22.94
+Denny Triangle,Seattle,WA,Seattle,King,3.89063812881306,2887.5,3.62424242424242,,,,,,
+South Lake Union,Seattle,WA,Seattle,King,3.36806212934488,2060.0,2.90988372093023,2984.0,,,,,
+Admiral,Seattle,WA,Seattle,King,,1550.0,,,,,799800.0,476.46383467279014,25.28
+North Queen Anne,Seattle,WA,Seattle,King,,1695.0,,,,,,,26.83
+Green Lake,Seattle,WA,Seattle,King,,1755.0,,2400.0,,,,,25.45
+South Tacoma,Tacoma,WA,Seattle,Pierce,,,1.20693581780538,1225.0,,,239950.0,180.66491750675,13.47
+Greenwood,Seattle,WA,Seattle,King,,,1.99375,1772.5,,,675000.0,510.593286986064,23.33
+Twin Creeks,Everett,WA,Seattle,Snohomish,,,1.4945652173913,1425.0,,,,,17.07
+Overlake,Redmond,WA,Seattle,King,,,2.05416666666667,1994.0,,,,,26.46
+SE Redmond,Redmond,WA,Seattle,King,,,2.10146561443067,2160.0,,,,,25.4
+Moss Bay,Kirkland,WA,Seattle,King,,,2.5363321799308,2500.0,,,,,23.63
+Issaquah Highlands,Issaquah,WA,Seattle,King,,,1.8781725888324896,2215.0,,,,372.92817679558,
+North Juanita,Kirkland,WA,Seattle,King,,,,1742.0,,,550000.0,381.214917127072,
+South End,Tacoma,WA,Seattle,Pierce,,,,,1.14968440036069,1422.5,235000.0,195.3125,13.7
+Central,Tacoma,WA,Seattle,Pierce,,,,,,1705.0,254975.0,200.17931858936,14.32
+Eastside-ENACT,Tacoma,WA,Seattle,Pierce,,,,,,,244950.0,192.847124824684,13.72
+Alderwood Manor,Lynnwood,WA,Seattle,Snohomish,,,,,,,520000.0,285.045248868778,19.68
+Magnolia,Seattle,WA,Seattle,King,,,,,,,1096500.0,538.720538720539,27.23
+Northeast Tacoma,Tacoma,WA,Seattle,Pierce,,,,,,,438000.0,195.402298850575,16.19
+Martha Lake,Lynnwood,WA,Seattle,Snohomish,,,,,,,589950.0,272.204751019744,19.01
+North Beacon Hill,Seattle,WA,Seattle,King,,,,,,,669750.0,468.6005022282469,22.16
+Finn Hill,Kirkland,WA,Seattle,King,,,,,,,798000.0,364.864864864865,24.84
+Cascade,Renton,WA,Seattle,King,,,,,,,318885.0,240.770465489567,15.34
+Lea Hill,Auburn,WA,Seattle,King,,,,,,,466950.0,193.631593179458,15.9
+Pinehurst,Everett,WA,Seattle,Snohomish,,,,,,,384950.0,211.97687224669602,16.44
+Broadview,Seattle,WA,Seattle,King,,,,,,,854975.0,380.65268065268094,25.73
+Columbia City,Seattle,WA,Seattle,King,,,,,,,689950.0,428.35519677093805,
+Cougar Mountain,Bellevue,WA,Seattle,King,,,,,,,1388800.0,430.422535211268,28.34
+Pioneer Square,Seattle,WA,Seattle,King,,,,,,,717000.0,,
+Oakbrook,Lakewood,WA,Seattle,Pierce,,,,,,,320000.0,168.262653898769,
+Mirror Lake,Federal Way,WA,Seattle,King,,,,,,,289500.0,193.54758064516102,
+Hilltop,Arlington,WA,Seattle,Snohomish,,,,,,,380000.0,228.364042434394,
+Twin Lakes,Federal Way,WA,Seattle,King,,,,,,,349999.0,200.456621004566,
+Peacock Hill,Gig Harbor,WA,Seattle,Pierce,,,,,,,659950.0,235.30447025695202,
+Rosedale-Hunt,Gig Harbor,WA,Seattle,Pierce,,,,,,,614950.0,218.843416370107,
+Klahanie,Sammamish,WA,Seattle,King,,,,,,,877444.0,378.295577693611,
+Tyee Park,Lakewood,WA,Seattle,Pierce,,,,,,,314000.0,198.433147632312,
+Kingsgate,Kirkland,WA,Seattle,King,,,,,,,,341.154915339904,23.22
+East Queen Anne,Seattle,WA,Seattle,King,,,,,,,,645.7851801495581,24.89
+West Campus,Federal Way,WA,Seattle,King,,,,,,,,182.987141444115,
+North End,Tacoma,WA,Seattle,Pierce,,,,,,,,,17.2
+Beacon Hill,Seattle,WA,Seattle,King,,,,,,,,,21.6
+Lake Hills,Bellevue,WA,Seattle,King,,,,,,,,,26.24
+Ravenna,Seattle,WA,Seattle,King,,,,,,,,,26.36
+Maple Leaf,Seattle,WA,Seattle,King,,,,,,,,,24.81
+Bridle Trails,Bellevue,WA,Seattle,King,,,,,,,,,27.05
+Holly,Everett,WA,Seattle,Snohomish,,,,,,,,,16.11
+Phinney Ridge,Seattle,WA,Seattle,King,,,,,,,,,25.51
+Sunset,Renton,WA,Seattle,King,,,,,,,,,15.59
+Minor,Seattle,WA,Seattle,King,,,,,,,,,22.63
+Silver Lake,Everett,WA,Seattle,Snohomish,,,,,,,,,17.63
+Haller Lake,Seattle,WA,Seattle,King,,,,,,,,,21.82
+North College Park,Seattle,WA,Seattle,King,,,,,,,,,22.56
+Wilburton,Bellevue,WA,Seattle,King,,,,,,,,,26.14
+Brighton,Seattle,WA,Seattle,King,,,,,,,,,19.04
+Port Gardner,Everett,WA,Seattle,Snohomish,,,,,,,,,16.69
+Wedgwood,Seattle,WA,Seattle,King,,,,,,,,,26.44
+Loyal Heights,Seattle,WA,Seattle,King,,,,,,,,,26.03
+West Woodland,Seattle,WA,Seattle,King,,,,,,,,,24.68
+Olympic Hills,Seattle,WA,Seattle,King,,,,,,,,,21.73
+Delta,Everett,WA,Seattle,Snohomish,,,,,,,,,15.84
+Downtown,Seattle,WA,Seattle,King,,,,,,,,,23.35
+Alki,Seattle,WA,Seattle,King,,,,,,,,,24.95
+Gatewood,Seattle,WA,Seattle,King,,,,,,,,,23.48
+Rainier Beach,Seattle,WA,Seattle,King,,,,,,,,,18.06
+West Queen Anne,Seattle,WA,Seattle,King,,,,,,,,,25.99
+View Ridge-Madison,Everett,WA,Seattle,Snohomish,,,,,,,,,16.92
+Idylwood,Redmond,WA,Seattle,King,,,,,,,,,27.56
+Sunset Hill,Seattle,WA,Seattle,King,,,,,,,,,27.08
+Genesee,Seattle,WA,Seattle,King,,,,,,,,,23.71
+Pinehurst,Seattle,WA,Seattle,King,,,,,,,,,22.12
+Matthews Beach,Seattle,WA,Seattle,King,,,,,,,,,26.43
+Dunlap,Seattle,WA,Seattle,King,,,,,,,,,17.84
+President Park,Renton,WA,Seattle,King,,,,,,,,,16.19
+Fairmount Park,Seattle,WA,Seattle,King,,,,,,,,,22.71
+Arbor Heights,Seattle,WA,Seattle,King,,,,,,,,,21.39
+Bryant,Seattle,WA,Seattle,King,,,,,,,,,26.18
+Victory Heights,Seattle,WA,Seattle,King,,,,,,,,,23.06
+Cedar Park,Seattle,WA,Seattle,King,,,,,,,,,23.93
+Whittier Heights,Seattle,WA,Seattle,King,,,,,,,,,25.6
+Roosevelt,Seattle,WA,Seattle,King,,,,,,,,,25.7
+South Beacon Hill,Seattle,WA,Seattle,King,,,,,,,,,18.87
+Laurelhurst,Seattle,WA,Seattle,King,,,,,,,,,28.73
+Roxhill,Seattle,WA,Seattle,King,,,,,,,,,20.21
+Riverside,Everett,WA,Seattle,Snohomish,,,,,,,,,15.81
+Fauntleroy,Seattle,WA,Seattle,King,,,,,,,,,25.85
+Eastlake,Seattle,WA,Seattle,King,,,,,,,,,22.39
+South Park,Seattle,WA,Seattle,King,,,,,,,,,16.25
+Evergreen,Everett,WA,Seattle,Snohomish,,,,,,,,,16.48
+Woods Creek,Monroe,WA,Seattle,Snohomish,,,,,,,,,19.23
+View Ridge,Seattle,WA,Seattle,King,,,,,,,,,26.87
+Norkirk,Kirkland,WA,Seattle,King,,,,,,,,,28.95
+Kennydale,Renton,WA,Seattle,King,,,,,,,,,20.62
+Cascade View,Everett,WA,Seattle,Snohomish,,,,,,,,,16.54
+Northwest Everett,Everett,WA,Seattle,Snohomish,,,,,,,,,16.75
+Madrona,Seattle,WA,Seattle,King,,,,,,,,,27.48
+Rainier View,Seattle,WA,Seattle,King,,,,,,,,,15.72
+Glacier View,Everett,WA,Seattle,Snohomish,,,,,,,,,16.72
+Seaview,Seattle,WA,Seattle,King,,,,,,,,,24.32
+Bayside,Everett,WA,Seattle,Snohomish,,,,,,,,,15.95
+Interlake,Bellevue,WA,Seattle,King,,,,,,,,,27.12
+Madison Valley,Seattle,WA,Seattle,King,,,,,,,,,25.35
+Leschi,Seattle,WA,Seattle,King,,,,,,,,,26.34
+WoodRidge,Bellevue,WA,Seattle,King,,,,,,,,,26.72
+Meadowbrook,Seattle,WA,Seattle,King,,,,,,,,,24.59
+Riverview,Seattle,WA,Seattle,King,,,,,,,,,20.34
+Earlington Hill,Renton,WA,Seattle,King,,,,,,,,,16.91
+Montlake,Seattle,WA,Seattle,King,,,,,,,,,28.78
+Harborview-Seahurst-Glenhaven,Everett,WA,Seattle,Snohomish,,,,,,,,,17.45
+Factoria,Bellevue,WA,Seattle,King,,,,,,,,,18.3
+South Rose Hill,Kirkland,WA,Seattle,King,,,,,,,,,26.08
+Mt. Baker,Seattle,WA,Seattle,King,,,,,,,,,27.51
+Bridle Trails,Kirkland,WA,Seattle,King,,,,,,,,,27.31
+Crown Hill,Seattle,WA,Seattle,King,,,,,,,,,23.62
+Lakewood,Seattle,WA,Seattle,King,,,,,,,,,24.33
+North Beach,Seattle,WA,Seattle,King,,,,,,,,,27.26
+Tam O'Shanter,Bellevue,WA,Seattle,King,,,,,,,,,28.02
+Bear Creek,Redmond,WA,Seattle,King,,,,,,,,,21.38
+Boulevard Bluffs,Everett,WA,Seattle,Snohomish,,,,,,,,,21.48
+Phantom Lake,Bellevue,WA,Seattle,King,,,,,,,,,27.33
+Mann,Seattle,WA,Seattle,King,,,,,,,,,24.56
+Seward Park,Seattle,WA,Seattle,King,,,,,,,,,27.01
+Highlands,Kirkland,WA,Seattle,King,,,,,,,,,27.3
+South Forest Park,Everett,WA,Seattle,Snohomish,,,,,,,,,16.76
+Madison Park,Seattle,WA,Seattle,King,,,,,,,,,27.53
+Robinswood,Bellevue,WA,Seattle,King,,,,,,,,,26.14
+Glencoe,Renton,WA,Seattle,King,,,,,,,,,19.33
+Vasa,Bellevue,WA,Seattle,King,,,,,,,,,26.77
+Portage Bay,Seattle,WA,Seattle,King,,,,,,,,,28.07
+Hawthorne Hills,Seattle,WA,Seattle,King,,,,,,,,,28.16
+Lake View,Kirkland,WA,Seattle,King,,,,,,,,,26.98
+Tiffany Park,Renton,WA,Seattle,King,,,,,,,,,16.47
+Windermere,Seattle,WA,Seattle,King,,,,,,,,,28.25
+Newport Shores,Bellevue,WA,Seattle,King,,,,,,,,,26.57
+South Union,Renton,WA,Seattle,King,,,,,,,,,18.49
+Market-Downtown,Kirkland,WA,Seattle,King,,,,,,,,,29.79
+Liberty Ridge,Renton,WA,Seattle,King,,,,,,,,,19.73
+Enatai,Bellevue,WA,Seattle,King,,,,,,,,,28.97
+West Lake Sammamish,Bellevue,WA,Seattle,King,,,,,,,,,28.11
+North Renton,Renton,WA,Seattle,King,,,,,,,,,15.08
