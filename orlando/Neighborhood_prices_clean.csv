@@ -1,41 +1,49 @@
-Neighborhood,city,state,metro,county,rent_1br_sqft,rent_1br_monthly,rent_2br_sqft,rent_2br_monthly,rent_sf_sqft,rent_sf_monthly,buy_home,buy_home_sqft,price_rent_ratio
-Metro West,Orlando,FL,Orlando,Orange,1.4159713945172805,1179.0,1.22641200428725,1398.0,,,176750.0,124.15402962828101,
-Florida Center North,Orlando,FL,Orlando,Orange,1.57914572864322,,1.33144246353323,,,,,119.91385372714501,
-Airport North,Orlando,FL,Orlando,Orange,1.6275449101796398,1226.0,1.34537953929319,1469.0,,,,,10.35
-Baldwin Park,Orlando,FL,Orlando,Orange,1.76861397479954,1481.0,1.52154793315743,1838.0,,,,234.75046210720902,14.64
-Central Business District,Orlando,FL,Orlando,Orange,1.90336749633968,1400.0,1.75746924428822,1954.5,,,,279.775819696697,11.22
-Alafaya,Orlando,FL,Orlando,Orange,1.60516129032258,1209.0,1.28986866791745,1481.0,0.8903576169652622,1695.0,300000.0,136.82119205298,
-Hunters Creek,Orlando,FL,Orlando,Orange,,,1.34429093645845,1589.5,1.01060711336179,2097.5,304900.0,152.256834075016,13.08
-South Semoran,Orlando,FL,Orlando,Orange,,,1.12917795844625,1100.0,,,103400.0,106.244582043344,
-Meadow Woods,Orlando,FL,Orlando,Orange,,,,,0.8519615869017629,1700.0,289000.0,129.30450010292,12.47
-College Park,Orlando,FL,Orlando,Orange,,,,,,,412500.0,234.58671744234402,14.97
-Vista East,Orlando,FL,Orlando,Orange,,,,,,,298000.0,124.396583735611,13.17
-Lake Nona South,Orlando,FL,Orlando,Orange,,,,,,,408570.0,178.023977341706,14.39
-Lake Nona Central,Orlando,FL,Orlando,Orange,,,,,,,459000.0,174.808743169399,14.18
-South Eola,Orlando,FL,Orlando,Orange,,,,,,,,281.1875,13.95
-Azalea Park,Orlando,FL,Orlando,Orange,,,,,,,,,11.51
-Union Park,Orlando,FL,Orlando,Orange,,,,,,,,,12.2
-Florida Center,Orlando,FL,Orlando,Orange,,,,,,,,,12.91
-Ventura,Orlando,FL,Orlando,Orange,,,,,,,,,8.7
-Bryn Mawr,Orlando,FL,Orlando,Orange,,,,,,,,,12.87
-Southchase,Orlando,FL,Orlando,Orange,,,,,,,,,12.91
-Colonialtown North,Orlando,FL,Orlando,Orange,,,,,,,,,14.7
-Lawsona-Fern Creek,Orlando,FL,Orlando,Orange,,,,,,,,,14.94
-Lake Como,Orlando,FL,Orlando,Orange,,,,,,,,,14.8
-Mariners Village,Orlando,FL,Orlando,Orange,,,,,,,,,12.62
-Wadeview Park,Orlando,FL,Orlando,Orange,,,,,,,,,13.88
-Lake Eola Heights,Orlando,FL,Orlando,Orange,,,,,,,,,14.14
-Audubon Park,Orlando,FL,Orlando,Orange,,,,,,,,,14.9
-Dover Estates,Orlando,FL,Orlando,Orange,,,,,,,,,12.82
-Lake Davis-Greenwood,Orlando,FL,Orlando,Orange,,,,,,,,,14.55
-Dover Shores West,Orlando,FL,Orlando,Orange,,,,,,,,,13.72
-Southport,Orlando,FL,Orlando,Orange,,,,,,,,,11.51
-Taft,Orlando,FL,Orlando,Orange,,,,,,,,,10.55
-Dover Manor,Orlando,FL,Orlando,Orange,,,,,,,,,13.22
-Delaney Park,Orlando,FL,Orlando,Orange,,,,,,,,,15.2
-Colonialtown South,Orlando,FL,Orlando,Orange,,,,,,,,,14.94
-Palomar,Orlando,FL,Orlando,Orange,,,,,,,,,14.65
-Spring Lake,Orlando,FL,Orlando,Orange,,,,,,,,,14.73
-Northlake Park at Lake Nona,Orlando,FL,Orlando,Orange,,,,,,,,,13.85
-East Park,Orlando,FL,Orlando,Orange,,,,,,,,,13.73
-LaVina,Orlando,FL,Orlando,Orange,,,,,,,,,13.42
+Neighborhood,city,state,metro,county,rent_1br_sqft_x,rent_1br_monthly,rent_1br_sqft_y,buy_home,buy_home_sqft,rent_2br_monthly,rent_2br_sqft,rent_sf_monthly,rent_sf_sqft,price_rent_ratio,County_x,pct_price_reduction_homes,County_y,median_pct_price_reduction_homes,pct_home_increasing_in_values,pct_home_decreasing_in_values
+Metro West,Orlando,FL,Orlando,Orange,1.51515151515152,1200.0,1.51515151515152,156500.0,124.85136741973801,1447.5,1.236,,,,Orange,9.629629629629632,Orange,2.20193740685544,,
+Florida Center North,Orlando,FL,Orlando,Orange,1.59907834101382,,1.59907834101382,,126.58227848101299,,1.30794165316045,,,,Orange,7.40740740740741,,,,
+Airport North,Orlando,FL,Orlando,Orange,1.63067484662577,1250.5,1.63067484662577,,,1479.0,1.38777292576419,,,10.71,,,,,92.6,3.1
+Baldwin Park,Orlando,FL,Orlando,Orange,1.82486631016043,1430.0,1.82486631016043,,230.49132947976898,1795.0,1.5156507413509095,,,14.88,Orange,27.368421052631607,,,86.32,6.56
+Central Business District,Orlando,FL,Orlando,Orange,2.08049412444616,1519.0,2.08049412444616,,254.060324825986,2089.0,1.82111286008804,,,11.6,Orange,13.333333333333302,,,78.13,14.42
+South Eola,Orlando,FL,Orlando,Orange,2.109375,1460.0,2.109375,386950.0,264.269129327252,2005.0,1.75,,,13.69,,,,,52.61,28.92
+Alafaya,Orlando,FL,Orlando,Orange,1.69378531073446,1286.0,1.69378531073446,305000.0,140.549859753298,1466.5,1.2398819540603,1700.0,0.9152719665271972,,Orange,23.9819004524887,Orange,1.86636804777902,,
+Colonial Town Center,Orlando,FL,Orlando,Orange,,1502.5,,,,,,,,,,,,,,
+Meadow Woods,Orlando,FL,Orlando,Orange,,,,293490.0,137.636146020347,,,1717.0,0.95360824742268,12.68,Orange,13.7339055793991,Orange,1.92344688785628,94.16,2.35
+Hunters Creek,Orlando,FL,Orlando,Orange,,,,327900.0,153.890160183066,1540.0,1.31216931216931,2000.0,0.958144469581068,13.24,Orange,21.0526315789474,Orange,2.00803212851406,89.22,5.19
+College Park,Orlando,FL,Orlando,Orange,,,,499500.0,250.474383301708,,,,,15.22,Orange,31.1475409836066,Orange,2.65721877767936,84.51,9.61
+Vista East,Orlando,FL,Orlando,Orange,,,,288500.0,124.00270026314199,,,1795.0,0.8232378854625549,13.34,Orange,23.076923076923105,,,92.49,4.29
+Lake Nona South,Orlando,FL,Orlando,Orange,,,,401990.0,192.783950253924,,,,,14.55,,,,,,
+Lake Nona Central,Orlando,FL,Orlando,Orange,,,,439000.0,183.622722239001,,,,,14.05,,,,,46.88,35.46
+South Semoran,Orlando,FL,Orlando,Orange,,,,,108.641975308642,1195.0,1.2312633832976398,,,,Orange,12.280701754386001,,,,
+Azalea Park,Orlando,FL,Orlando,Orange,,,,,,,,,,11.94,,,,,96.96,1.6
+Union Park,Orlando,FL,Orlando,Orange,,,,,,,,,,12.57,,,,,97.34,1.59
+Engelwood Park,Orlando,FL,Orlando,Orange,,,,,,,,,,9.92,,,,,86.44,11.1
+Florida Center,Orlando,FL,Orlando,Orange,,,,,,,,,,13.16,,,,,74.71,17.08
+Ventura,Orlando,FL,Orlando,Orange,,,,,,,,,,9.35,,,,,94.59,3.89
+Bryn Mawr,Orlando,FL,Orlando,Orange,,,,,,,,,,13.12,,,,,96.54,1.4
+Southchase,Orlando,FL,Orlando,Orange,,,,,,,,,,13.21,,,,,98.68,0.49
+Colonialtown North,Orlando,FL,Orlando,Orange,,,,,,,,,,14.97,,,,,86.34,8.32
+Lawsona-Fern Creek,Orlando,FL,Orlando,Orange,,,,,,,,,,14.85,,,,,77.16,13.38
+Lake Como,Orlando,FL,Orlando,Orange,,,,,,,,,,15.08,,,,,89.99,4.15
+Mariners Village,Orlando,FL,Orlando,Orange,,,,,,,,,,12.99,,,,,,
+Wadeview Park,Orlando,FL,Orlando,Orange,,,,,,,,,,13.89,,,,,85.04,10.83
+Lake Eola Heights,Orlando,FL,Orlando,Orange,,,,,,,,,,14.23,,,,,79.45,12.24
+Audubon Park,Orlando,FL,Orlando,Orange,,,,,,,,,,15.15,,,,,96.68,1.2
+Dover Shores East,Orlando,FL,Orlando,Orange,,,,,,,,,,12.41,,,,,90.85,7.2
+Rosemont North,Orlando,FL,Orlando,Orange,,,,,,,,,,11.83,,,,,,
+Dixie Belle,Orlando,FL,Orlando,Orange,,,,,,,,,,9.92,,,,,98.25,1.48
+Dover Estates,Orlando,FL,Orlando,Orange,,,,,,,,,,12.88,,,,,91.42,4.29
+Lake Davis-Greenwood,Orlando,FL,Orlando,Orange,,,,,,,,,,14.75,,,,,,
+Dover Shores West,Orlando,FL,Orlando,Orange,,,,,,,,,,14.64,,,,,82.14,11.46
+Southport,Orlando,FL,Orlando,Orange,,,,,,,,,,12.03,,,,,99.7,0.15
+Taft,Orlando,FL,Orlando,Orange,,,,,,,,,,10.92,,,,,,
+Dover Manor,Orlando,FL,Orlando,Orange,,,,,,,,,,13.81,,,,,,
+Delaney Park,Orlando,FL,Orlando,Orange,,,,,,,,,,15.49,,,,,,
+Colonialtown South,Orlando,FL,Orlando,Orange,,,,,,,,,,15.2,,,,,83.81,9.89
+Palomar,Orlando,FL,Orlando,Orange,,,,,,,,,,14.63,,,,,,
+Orwin Manor,Orlando,FL,Orlando,Orange,,,,,,,,,,15.49,,,,,,
+Spring Lake,Orlando,FL,Orlando,Orange,,,,,,,,,,15.42,,,,,,
+Northlake Park at Lake Nona,Orlando,FL,Orlando,Orange,,,,,,,,,,14.02,,,,,84.08,7.09
+East Park,Orlando,FL,Orlando,Orange,,,,,,,,,,14.09,,,,,95.7,0.92
+LaVina,Orlando,FL,Orlando,Orange,,,,,,,,,,13.62,,,,,95.71,1.56
+South Orange,Orlando,FL,Orlando,Orange,,,,,,,,,,,,,,,,
+Lake Underhill,Orlando,FL,Orlando,Orange,,,,,,,,,,,,,,,,
