@@ -1,3 +1,0 @@
-RegionType,zipcode,city,SizeRank,City,CountyName,Metro,StateName,BEPropCount,SampleRate,MedBE,Breakeven,MedPR
-City,13121,Orlando,78,Orlando,Orange,Orlando,FL,59640,0.255,1.466894717,1 year(s) and 6 month(s),12.16632574
-MSA,394943,"Orlando, FL",27,,,Orlando,FL,228331,0.255,1.4437904869999998,1 year(s) and 5 month(s),12.10163434
