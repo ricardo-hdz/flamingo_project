@@ -100,7 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-/cpi
 /miami
 /orlando
 /seattle
