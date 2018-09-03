@@ -105,3 +105,6 @@ ENV/
 /orlando
 /seattle
 /indicators
+/testing
+/datasets
+.DS_Store
