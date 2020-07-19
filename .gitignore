@@ -104,7 +104,12 @@ ENV/
 /miami
 /orlando
 /seattle
+/new york
+/weehawken
+/datasets
+/indicators
 /indicators
 /testing
 /datasets
 .DS_Store
+codealike.json
