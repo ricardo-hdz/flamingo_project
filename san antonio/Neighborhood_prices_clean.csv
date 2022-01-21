@@ -1,0 +1,363 @@
+Neighborhood,city,state,metro,county,rent_1br_monthly,rent_1br_sqft,buy_home,buy_home_sqft,rent_2br_monthly,rent_2br_sqft,rent_sf_monthly,rent_sf_sqft,price_rent_ratio,pct_price_reduction_homes,median_pct_price_reduction_homes,pct_home_increasing_in_values,pct_home_decreasing_in_values
+Vance Jackson,San Antonio,TX,San Antonio-New Braunfels,Bexar County,797.0,1.17214020356586,239900.0,131.236445032068,1005.0,1.04347826086957,825.0,,14.19,10.5882352941176,3.6697247706422,71.98,26.3
+Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,1160.0,1.55059132720105,295000.0,122.60356287301201,1570.0,,1800.0,,6.74,13.7254901960784,2.8277634961439504,24.02,75.49
+Friedrich Wilderness Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,1241.5,1.5691176470588202,431445.0,153.866366366366,1670.0,,1554.0,,8.82,,,27.62,71.35
+Thousand Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,793.0,,,,1035.0,1.03645833333333,825.0,,11.89,,,58.07,40.71
+Forest Crest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,1335.0,1.8490304709141296,,,1985.0,1.6753022452504298,,,,,,,
+Highland Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,135000.0,115.003046458492,,,,,18.19,,,95.91,3.73
+Prospect Hill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,95000.0,92.1336891599949,,,,,16.17,,,97.4,2.49
+People Active in Community Effort,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,181499.0,117.155195991748,,,,,23.91,,,96.79,3.07
+Alamo Farmsteads-Babcock Road,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,200000.0,121.630506245891,,,1350.0,,10.0,7.35294117647059,,46.82,52.24
+Heritage,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,187999.0,124.97213372187099,,,,,13.74,,,85.92,12.56
+Great Northwest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,180000.0,118.142144638404,,,,,5.72,,,11.08,88.42
+Northwest Crossing,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,175000.0,113.02475780409,,,,,7.35,,,17.02,81.78
+Highland Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,179900.0,129.47882736156402,,,,,13.8,,,92.61,6.62
+Shearer Hills - Ridgeview,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,224900.0,138.94873181060498,,,,,15.67,,,73.23,25.4
+Los Angeles Heights - Keystone,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,157500.0,118.12814796466002,,,,,12.99,,,95.23,4.28
+Oak Park - Northwood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,384950.0,186.938622754491,,,,,12.93,15.6521739130435,2.73172643543014,50.53,48.76
+Greater Harmony Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,269900.0,121.96,,,,,14.3,,,72.5,25.4
+Sunrise Neighborhood Coalition,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,135997.0,102.272727272727,,,,,17.97,,,96.15,3.53
+Jefferson-Woodlawn Lake,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,232000.0,145.34883720930202,,,,,14.19,,,70.15,28.24
+Sonterra-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,399500.0,142.511451041397,,,1295.0,,4.44,8.0,1.4004001143183795,15.9,83.57
+Harvard Place - Eastlawn,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,144900.0,143.888979725311,,,,,16.76,,,91.81,7.4
+Monte Vista,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,550000.0,232.40069794245701,,,,,4.99,,,8.14,91.45
+Tobin Hill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,430000.0,262.762762762763,,,,,10.34,,,47.42,51.17
+Dignowity Hill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,285500.0,225.719719054416,,,,,11.35,,,53.99,44.63
+The Dominion,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,729000.0,191.64513350559898,,,,,2.04,9.78260869565217,2.81436461465498,2.32,97.59
+Mahncke Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,240.816829366685,,,,,7.84,,,17.82,81.87
+Terrell Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,1200.0,,,,13.13,,,50.61,46.38
+South Southwest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,20.55,,,94.5,5.27
+Palm Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.22,,,96.16,3.52
+Dellview Area,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.98,,,97.55,2.17
+Lackland Terrace,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,23.31,,,99.01,0.76
+Champions Springs-Sundance at Stone Oak-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.26,,,,
+Rainbow Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,19.99,,,80.97,18.79
+Quintana Community,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.03,,,97.2,2.62
+Northwest Los Angeles Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.01,,,95.6,4.06
+Southwest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.23,,,51.71,45.68
+Avenida Guadalupe,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.95,,,96.82,3.12
+Thunderbird Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,21.58,,,96.27,3.44
+Collins Garden,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.08,,,93.28,6.08
+Thompson Community,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.33,,,95.12,4.71
+University Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.26,,,88.28,11.53
+Hidden Cove - Indian Creek-Southwest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.47,,,94.14,5.0
+Pecan Valley,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,19.15,,,89.71,9.76
+Beacon Hill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.93,,,76.01,22.25
+Kingsborough Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.64,,,83.86,15.26
+Tierra Linda,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.88,,,96.88,2.92
+Culebra Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,20.27,,,94.1,5.7
+Riverside South,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.74,,,97.1,2.28
+Regency Meadow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.0,,,,
+Woodthorn,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,20.35,,,,
+Community Workers Council,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,21.25,,,99.01,0.84
+Forest at Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.43,,,,
+Third World,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.02,,,84.08,15.58
+Donaldson Terrace,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.77,,,76.15,21.47
+Timber Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.59,,,10.92,88.12
+Stonegate Hills at Westover Hill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.27,,,,
+Stone Mountain-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.29,,,,
+Summit-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.41,,,,
+Woodlawn Lake,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.55,,,88.13,10.46
+North Central Thousand Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.67,,,45.21,53.17
+Mission San Jose,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.99,,,88.34,9.65
+Hot Wells,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.62,,,95.91,3.27
+Woodstone,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.88,,,73.16,24.81
+Laddie Place and North Wilson,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.88,,,96.01,3.87
+Government Hill Alliance,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.26,,,81.74,17.24
+Roseheart,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.49,,,,
+Summit at Bulverde Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.79,,,70.52,28.66
+Cable-Westwood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,27.3,,,98.47,1.53
+Sierra Springs,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.1,,,84.93,13.57
+Maverick Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.62,,,,
+The Hills of Park North,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.71,,,93.92,5.57
+Adams Hill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.64,,,81.57,15.53
+Shady Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.05,,,80.03,18.03
+Sunny Slope,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.95,,,93.14,6.56
+Meadow Village,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,23.88,,,98.24,1.27
+Roosevelt Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.14,,,81.94,17.16
+Greater Gardendale,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.84,,,97.53,2.16
+Northwest Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.51,,,,
+Spring Vistas - Sierra Springs,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.51,,,,
+High Country,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.35,,,30.98,66.91
+Camelot 1,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.72,,,98.43,1.26
+Pipers Meadow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,22.62,,,85.44,13.56
+Las Lomas-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.11,,,,
+Jefferson,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.16,,,71.32,26.56
+Community Workers Council-Los Jardines,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.86,,,96.22,3.56
+Owners Association of Lago Vista-South Southwest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,22.42,,,,
+Southpark,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.61,,,,
+Parkwood Maintenance,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.5,,,8.19,91.04
+Stone Valley,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.91,,,,
+Memorial Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.4,,,96.06,3.43
+College Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.34,,,,
+Sunshine Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.45,,,78.71,20.83
+Lockhill Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,215.28,,,,
+Denver Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.8,,,95.06,4.64
+Village in the Woods,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.61,,,,
+Longs Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.34,,,58.43,39.22
+North San Antonio Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.69,,,,
+Northern Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.99,,,71.76,27.01
+Wilshire,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.39,,,91.96,7.57
+United Westwood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,21.18,,,99.21,0.79
+Ingram Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.61,,,74.01,25.52
+Braun Station West,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.69,,,1.97,97.78
+Los Jardines,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.37,,,96.93,2.83
+Hart Ranch Unit One,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.06,,,,
+Downtown,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.39,,,,
+Pecan Valley Heights-Pecan Valley,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.08,,,,
+Wilshire Village,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,24.24,,,83.07,16.77
+Spring Creek Neighborhood Alliance,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.42,,,51.0,46.47
+Regency Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.58,,,,
+Gillette Area,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,20.91,,,96.95,3.05
+Ridgestone No. 9,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.11,,,,
+The Champions Estates-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.68,,,,
+184 Association,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.71,,,,
+Redland Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.73,,,,
+Dellcrest Area,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.58,,,96.81,2.91
+Spyglass Hill Condominium,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,19.04,,,,
+Park Village,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.69,,,96.59,2.52
+Alta Vista,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.82,,,57.73,40.76
+Loma Vista,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.14,,,96.1,3.75
+Oak Grove Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.16,,,,
+Springvale,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,24.77,,,99.52,0.39
+Quail Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.63,,,,
+The Crossing at Quail Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.16,,,,
+Citizens on Alert,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,20.66,,,98.08,1.81
+Edison,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.35,,,99.03,0.73
+Hidden Meadow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.16,,,23.91,73.91
+Royal Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.38,,,81.04,17.94
+Loma Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,21.03,,,98.75,1.12
+Oakland Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.3,,,,
+Nevada Street,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.67,,,91.87,7.44
+Oakwood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.58,,,,
+Skyline Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,97.08,,,,
+Lavaca,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.21,,,44.15,54.72
+Highland Farms,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,21.65,,,96.13,3.87
+Lakeside,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.63,,,54.76,42.54
+Monterrey Village HOA,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.89,,,,
+Whisper Hollow-North Central Thousand Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.22,,,,
+Sonoma Ranch,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.68,,,30.8,68.53
+The Terraces at Encino Creek Owners Association,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.6,,,,
+Encino Rio HOA,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.05,,,,
+San Antonio Creekside,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.75,,,23.12,76.6
+Northhampton-Alamo Farmsteads-Babcock Road,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.37,,,,
+Steubing Ranch,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.46,,,75.75,22.71
+Oak Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.57,,,48.39,50.65
+El Dorado,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.98,,,95.13,4.34
+Country View Village-Alamo Farmsteads-Babcock Road,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.62,,,,
+Oak Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.98,,,47.95,48.1
+Feather Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,3.99,,,,
+Dreamhill Estates Neighborhood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.5,,,,
+Sun Gate,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.93,,,99.09,0.76
+Mockingbird Hill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.68,,,,
+Legend Hills-Crownridge of Texas,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.85,,,,
+Eden,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.32,,,16.11,81.67
+Northmoor,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,19.59,,,99.25,0.75
+Churchill Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.27,,,21.22,78.1
+Saddlebrook Farms,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.57,,,,
+Stonefield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.23,,,58.81,38.39
+North Castle Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.51,,,,
+Devonshire Condominiums,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.56,,,,
+Range Rider,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.35,,,,
+Redland Springs,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.47,,,,
+Walker Ranch,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.4,,,,
+East Terrell Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.89,,,74.94,22.74
+Blanco Woods,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,3.17,,,,
+Rolling Ridge Village-Rolling Ridge Club,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,22.04,,,,
+Oak Hollow Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.77,,,,
+Lorrence Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.01,,,78.54,19.3
+Hunters Chase II,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.97,,,35.35,62.42
+Hills and Dales,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.04,,,40.88,57.1
+Woodridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.06,,,51.02,47.54
+Arena District,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.79,,,,
+Promontory Pointe-Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.96,,,25.43,73.9
+Hillcrest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,68.5,,,,
+Eastwood Village,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.63,,,96.23,3.27
+East Village,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.14,,,98.91,0.87
+Fieldstone,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.51,,,,
+Creekview Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.93,,,,
+Dellcrest Forrest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,27.87,,,,
+Artesia Community Guild,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,24.25,,,,
+Southeast Citizens Committee-Highland Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.52,,,,
+Tezel Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.61,,,,
+Oxbow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.81,,,95.94,3.97
+Deerfield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.84,,,0.42,99.58
+Vista Del Norte,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.94,,,,
+Gardens at Brookhollow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.24,,,,
+Woodmont,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,23.62,,,,
+Encino Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,3.54,,,3.16,96.36
+Tanglewood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.99,,,82.6,16.21
+Oak Meadow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.43,,,0.45,99.55
+Huntington Place,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.86,,,17.53,80.38
+Preston Hollow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.84,,,,
+Valley Hi North,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.8,,,,
+Stablewood-Valley Hi North,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,20.34,,,,
+Valencia,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.56,,,72.92,24.82
+Misty Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.76,,,16.78,82.09
+Wildwood West,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.44,,,,
+Guilbeau Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.4,,,57.98,40.99
+Bluffview at Camino Real,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.24,,,1.12,98.88
+Olmos Park Terrace,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.88,,,,
+Arbor at Sonoma Ranch,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.94,,,54.94,43.09
+Inspiration Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,65.76,,,,
+Jefferson-Monticello Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.67,,,,
+Village North One,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,19.35,,,,
+Hunters Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.8,,,19.47,78.88
+Woodbridge at Monte Viejo,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.05,,,77.33,21.28
+Woods of Shavano,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.62,,,2.69,96.83
+Elm Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.72,,,5.28,94.37
+Overlook of Carriage Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.07,,,,
+North Shearer Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.58,,,,
+General Krueger,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,23.76,,,88.15,10.9
+Brady Gardens,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.99,,,97.88,1.93
+Canyon View,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.69,,,,
+Gold Canyon,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.58,,,,
+Redland Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.07,,,,
+Northchase,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.35,,,,
+Wheatley Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,26.19,,,,
+Oak Haven Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.2,,,,
+Westwood Village I,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,29.77,,,,
+Inwood Homeowners,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.19,,,,
+Castle Hills Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.85,,,10.14,89.12
+Whispering Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.24,,,70.83,27.28
+Coliseum-Willow Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,22.29,,,,
+Rolling Ridge Club,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.8,,,,
+King William,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.41,,,17.2,82.24
+Eastgate,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.98,,,,
+Braun Station East,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.08,,,0.34,99.33
+El Chaparral Fertile Valley,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.14,,,,
+Crown Meadows,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.0,,,,
+Villas of Babcock (Summerwind),San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,24.07,,,,
+Oakmont Downs,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.48,,,,
+Five Points,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.01,,,,
+Lower Southeast Side,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,18.28,,,,
+Green Spring Valley,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.61,,,16.73,83.27
+Arboretum,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.86,,,,
+Property Owners of Apple Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.3,,,,
+MacArthur Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.82,,,,
+Eckhert Crossing,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.85,,,,
+Stone Oak Communities of Mutual Amenities-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.6,,,11.39,87.97
+Hidden Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.09,,,18.37,79.24
+Santa Fe Trails,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.6,,,,
+Greystone Country Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.7,,,,
+Ridgestone,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.34,,,8.9,90.35
+San Antonio Remington Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.09,,,,
+Park Place,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.87,,,,
+The Vineyard,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.7,,,16.7,82.28
+Culebra Park-Third World,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,25.63,,,,
+Champions Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,3.85,,,,
+Randolph Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.71,,,,
+Redland Woods,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.86,,,14.29,85.71
+Park Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.54,,,,
+Silverbrook,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.01,,,,
+The Oaks-Oak Park - Northwood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,109.61,,,,
+Big Springs,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.95,,,,
+Woodglen,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.54,,,,
+Crownhill Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.93,,,,
+United Homeowners,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,20.4,,,,
+Knollcreek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.01,,,17.8,80.8
+Enchanted Village - Greater Harmony Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.63,,,,
+Bel Meade Homes Association,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.68,,,,
+Crownridge of Texas Owners Association,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,3.05,,,,
+Mission Trace-Vance Jackson,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.58,,,,
+Southeast Side,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,17.38,,,,
+Emerald Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.92,,,,
+French Creek Village,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.05,,,,
+Woodlands of Camino Real,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.43,,,,
+North Central Heritage,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.41,,,,
+Vista,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.08,,,57.93,37.56
+Blossom Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.8,,,,
+Fox Run,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.55,,,,
+Mission Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,2.96,,,,
+Encino Ranch,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.16,,,,
+Trophy Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.35,,,,
+Braun Willow Unit2,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.44,,,,
+Hunters Mill,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.04,,,,
+Lafayette Place,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,24.3,,,,
+Braun Hollow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.76,,,,
+People Active in Community Effort-Valley Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,24.99,,,,
+Deer Hollow,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.44,,,,
+The Villas of Spring Creek HOA,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.13,,,,
+165 Association,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.56,,,,
+Oak Bluff,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.46,,,,
+Alamo Farmsteads-Babcock Road-Owners Association of Westfie,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.08,,,,
+The Seventh at Sonterra-The Vineyard,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,7.01,,,,
+Ridgehaven Volunteer,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.38,,,,
+Woller Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,21.94,,,,
+Eden Roc Maintenance Association,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.92,,,,
+The Park at Deerfield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,1.96,,,,
+Jade Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,4.38,,,,
+River Road,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,6.84,,,,
+Countryside San Pedro,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.79,,,,
+Shavano Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,3.1,,,,
+Provincia Villas,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.49,,,,
+The Bluffs of Henderson Pass,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,16.01,,,,
+Lindsey Place,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.27,,,,
+Northern Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.53,,,,
+Longs Ridge,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,9.33,,,,
+San Antonio St. James Place,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,10.83,,,,
+Towne Lake Garden,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,11.52,,,,
+Canyon Creek Bluffs,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.72,,,,
+Historic Gardens,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,14.33,,,,
+Encino Bluff,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,8.34,,,,
+Perrin Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,15.02,,,,
+145 Association,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,12.46,,,,
+Canyon Creek Village,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.03,,,,
+Vistas of Encino Park,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,5.97,,,,
+Solana Ridge Homeowners - People Active in Community Effort,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,13.24,,,,
+The Overlook,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Steeplebrook,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Walden Meadows-Crownridge of Texas,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Mountain View Acres,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Mesa Vista-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Cavalo Creek Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Canyon Creek Estates,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Churchill Heights,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+The Springs at Stone Oak-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Verde Hills,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+The Heights at Stone Oak II,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Cadillac Drive,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Hein-Orchard,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+McCreless Meadows,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Pecan Valley Park Estates-Pecan Valley,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Forests at Inwood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Ridge at Deerfield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Shavano Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Village at Rustic Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Pembroke Farms-Alamo Farmsteads-Babcock Road,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Villas at Redland Ranch,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+The Waters at Deerfield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Scattered Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Villas de Esperanza,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Sonterra Villas Townhome Condominium-Sonterra-Stone Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Hill Country Villas,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Bitters Enclave,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Bluff Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Wellsprings-Vance Jackson,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Shavano Garden Homes,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Hunters Brook-Hunters Chase II,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Villa De San Antonio,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Oak Valley,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Royal View,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Hampshire House,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Westfort Alliance,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Forest Oak,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+East Pyron - Symphony Lane-Mission San Jose,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Los Angeles Heights - Keystone-Northwest Los Angeles Height,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+The Fountains at Deerfield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Woods of Deerfield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Tezel Trails,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Castle Wood Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Stone Wood,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Coliseum Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Highland Forest,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+San Antonio Tierra Del Sol,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Owners Association of Westfield,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Jefferson-Monticello Park-Woodlawn Lake,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Encino Creek,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Wilderness Pointe,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Crestlake,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Sierra Vista,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Stone Oak Meadows,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Stone Oak Parke,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
+Auburn Oaks,San Antonio,TX,San Antonio-New Braunfels,Bexar County,,,,,,,,,,,,,
